@@ -72,6 +72,7 @@
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=Soumyadeep73&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep73&theme=radical" alt="GitHub Streak" />
     <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyadeep73&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
