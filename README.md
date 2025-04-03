@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SoumyadeepDas1808.SoumyadeepDas1808" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Soumyadeep73.Soumyadeep73" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Soumyadeep+Das!;AI+%7C+Full-Stack+%7C+ML+%7C+App+Dev+%7C+Database+Enthusiast!+🚀;" />
@@ -12,8 +12,8 @@
 🎯 **Problem-Solver | Open-Source Contributor | Tech Enthusiast**  
 💡 **Passionate about AI, Full-Stack Development, and Mobile App Engineering**  
 📌 **Currently diving deep into Advanced Machine Learning & Scalable App Development**  
-👨‍💻 **All my projects are available at:** [GitHub Profile](https://github.com/SoumyadeepDas1808)  
-📫 **Reach me at:** [Email](mailto:soumyadeepdas97321@gmail.com)  
+👨‍💻 **All my projects are available at:** [GitHub Profile](https://github.com/Soumyadeep73)  
+📫 **Reach me at:** [Email](mailto:dsoumyadeep78@gmail.com)  
 
 ---
 
@@ -63,10 +63,10 @@
 
 ## 🔥 GitHub Stats
 <div align="center">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=SoumyadeepDas1808&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepDas1808&theme=radical" alt="GitHub Streak" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Soumyadeep73&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep73&theme=radical" alt="GitHub Streak" />
     <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyadeepDas1808&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyadeep73&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
