@@ -19,11 +19,9 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/soumyadeep__das_18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumyadeepdas1808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/soumyadeep__das_18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumyadeepdas1808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/soumyadeep__das_18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumyadeep-das-694590341" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/dsoumyadeep78/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dsoumyadeep78" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
 ---
@@ -60,17 +58,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Soumyadeep73/Soumyadeep73/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-## 🔥 GitHub Stats
+
+🔥 GitHub Stats
 <div align="center">
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=Soumyadeep73&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep73&theme=radical" alt="GitHub Streak" />
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyadeep73&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
