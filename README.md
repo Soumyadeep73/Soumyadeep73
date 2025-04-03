@@ -1,19 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Soumyadeep73.Soumyadeep73" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SoumyadeepDas1808.SoumyadeepDas1808" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Soumyadeep+Das!;AI+%7C+Full-Stack+%7C+ML+%7C+Database+Enthusiast!+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Soumyadeep+Das!;AI+%7C+Full-Stack+%7C+ML+%7C+App+Dev+%7C+Database+Enthusiast!+🚀;" />
 </h1>
 
-<h3 align="center">🚀 Turning Ideas into Scalable & Intelligent Solutions</h3>
+<h3 align="center">🚀 Building Intelligent, Scalable & User-Centric Applications</h3>
 
 ---
 
 ## 🏆 About Me
-🎯 **Problem-Solver | Open-Source Contributor | Technology Enthusiast**  
-💡 **Passionate about AI, Full-Stack Development & Scalable Systems**  
-📌 **Currently exploring advanced Machine Learning & AI-driven applications**  
-👨‍💻 **All my projects are available at:** [GitHub Profile](https://github.com/Soumyadeep73)  
-📫 **Reach me at:** [Email](mailto:dsoumyadeep78@gmail.com)  
+🎯 **Problem-Solver | Open-Source Contributor | Tech Enthusiast**  
+💡 **Passionate about AI, Full-Stack Development, and Mobile App Engineering**  
+📌 **Currently diving deep into Advanced Machine Learning & Scalable App Development**  
+👨‍💻 **All my projects are available at:** [GitHub Profile](https://github.com/SoumyadeepDas1808)  
+📫 **Reach me at:** [Email](mailto:soumyadeepdas97321@gmail.com)  
 
 ---
 
@@ -42,6 +42,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+📱 **App Development:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
 🤖 **AI & ML:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,18 +71,11 @@
 
 ---
 
-## 📌 My Contributions
-<div align="center">
-  <h3>🐍 GitHub Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/Soumyadeep73/Soumyadeep73/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 💡 Fun Fact
-Did you know that the first-ever computer bug was an actual **moth**?  
-In 1947, **Grace Hopper** found a moth stuck in the relays of the **Harvard Mark II computer**, which led to the term _"debugging"_! 🐛  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/H96566k.jpg" width="300"/>
+Did you know that NASA's Mars Rovers run on an old PowerPC processor? 🚀
+The same kind of chip was used in 1998 iMacs! Even though it's outdated by today's standards, it's super reliable and radiation-resistant, making it perfect for space exploration! 🌌
+
+<img src="https://mars.nasa.gov/system/news_items/main_images/9657_PIA25334-Mastcam-Z-selfie-web.jpg" width="400"/>
 
 ---
 
